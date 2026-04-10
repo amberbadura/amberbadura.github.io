@@ -14,7 +14,7 @@
 <item>
   <title>Are the Top Teams in the NHL the Most Consistent?</title>
   <dc:creator>Amber Badura</dc:creator>
-  <link>https://your-website-url.example.com/posts/</link>
+  <link>https://your-website-url.example.com/posts/are-the-top-teams-in-the-nhl-the- most-consistent /</link>
   <description><![CDATA[ 
 
 
@@ -696,12 +696,12 @@ font-style: inherit;">"plot"</span></span>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="https://your-website-url.example.com/posts/are-the-top-teams-in-the-nhl-the- most-consistent /index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 </div>
-<p>In the 2024-25 season we are able to see that there really isn’t just one stat that will define a team’s success throughout the season.&nbsp; Defensive performance and shot control can shift quite a bit throughout the season. Showing that a team’s success can’t always be based on consistent results.&nbsp;</p>
+<p>In the 2024-25 season we are able to see that there really isn’t just one stat that will define a team’s success throughout the season.&nbsp;Defensive performance and shot control can shift quite a bit throughout the season. Showing that a team’s success can’t always be based on consistent results.&nbsp;</p>
 <p>Showing that teams that don’t dominate in these areas can find ways to win and be better than the teams that are above them. Such as the Florida Panthers who were 11th in the league. So, how often are the top teams the ones that are outshooting their opponents?</p>
 <div class="cell">
 <details class="code-fold">
@@ -1162,7 +1162,7 @@ font-style: inherit;">coord_flip</span>() </span></code></pre></div></div>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/index_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="https://your-website-url.example.com/posts/are-the-top-teams-in-the-nhl-the- most-consistent /index_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -1487,13 +1487,13 @@ font-style: inherit;">theme_minimal</span>()</span></code></pre></div></div>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/index_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="https://your-website-url.example.com/posts/are-the-top-teams-in-the-nhl-the- most-consistent /index_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 </div>
-<p>Throughout the season we see how much a team’s performance can fluctuate as their shooting and save percentages rise and fall. Sharp spikes for teams like Winnipeg Jets and Washington Capitals show moments of peak efficiency before it dips below the average line towards the end of the season.&nbsp;</p>
-<p>Looking at these stats and graphs, it becomes clear that even the top teams aren’t always the most consistent teams. We can see that teams like Florida who weren’t in the top 5 teams can prove that even with fluctuations in defense, shot control, and PDO. A team can still find a way to win and beat the top 5 teams in the 2024-25 Stanley cup competition.&nbsp;</p>
+<p>Throughout the season we see how much a team’s performance can fluctuate as their shooting and save percentages rise and fall. Hockey Reference was able to show the sharp spikes for teams like Winnipeg Jets and Washington Capitals show moments of peak efficiency before it dips below the average line towards the end of the season.&nbsp;</p>
+<p>Looking at these stats and graphs, we area able to see that even the top teams aren’t always the most consistent teams. We can see that teams like Florida who weren’t in the top 5 teams can prove that even with fluctuations in defense, shot control, and PDO. A team can still find a way to win and beat the top 5 teams in the 2024-25 Stanley cup competition.&nbsp;</p>
 <p><br>
 </p>
 
@@ -1503,64 +1503,9 @@ font-style: inherit;">theme_minimal</span>()</span></code></pre></div></div>
   <category>nhl</category>
   <category>hockey</category>
   <category>season</category>
-  <guid>https://your-website-url.example.com/posts/</guid>
+  <guid>https://your-website-url.example.com/posts/are-the-top-teams-in-the-nhl-the- most-consistent /</guid>
   <pubDate>Fri, 10 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/000018.png" medium="image" type="image/png" height="89" width="144"/>
-</item>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Mon, 30 Mar 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Fri, 27 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/are-the-top-teams-in-the-nhl-the- most-consistent /000018.png" medium="image" type="image/png" height="89" width="144"/>
 </item>
 </channel>
 </rss>
